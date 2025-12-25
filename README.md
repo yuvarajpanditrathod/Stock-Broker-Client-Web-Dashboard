@@ -264,9 +264,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Gouri CSE**
+**Yuvaraj P Rathod**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Gouricse-181717?style=for-the-badge&logo=github)](https://github.com/Gouricse)
+[![GitHub](https://img.shields.io/badge/GitHub-@yuvarajpanditrathod-181717?style=for-the-badge&logo=github)](https://github.com/yuvarajpanditrathod)
 
 ---
 
